@@ -29,4 +29,5 @@ My name is Kawan, i'm 21 years old and I am a technology student at IFSP.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=50 height=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=50 height=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width=50 height=50/>
+  
 </p>
