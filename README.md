@@ -1,7 +1,7 @@
 ## Perfil
 Hello World!  
 
-My name is Kawan, i'm 21 years old and I am a technology student at IFSP. 
+My name is Kawan, i'm 22 years old and I am a technology student at IFSP. 
 <ul>
   <li>:hearts:  I love web development</li>
 <li>:coffee: 70% of my body is coffe</li>
