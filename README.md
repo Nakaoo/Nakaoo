@@ -5,7 +5,6 @@ My name is Kawan, i'm 22 years old and I am a technology student at IFSP.
 <ul>
   <li>:hearts:  I love web development</li>
 <li>:coffee: 70% of my body is coffe</li>
-<li>:man_technologist: Currently IT Assistant</li>
 </ul>
 
 ## Statistics
