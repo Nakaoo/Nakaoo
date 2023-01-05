@@ -7,10 +7,6 @@ My name is Kawan, i'm 22 years old and I am a technology student at IFSP.
 <li>:coffee: 70% of my body is coffe</li>
 </ul>
 
-## Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakaoo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakaoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Social Network
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="60" />](https://www.linkedin.com/in/kawan-nakao-a7ab04169/)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="150" height="60">](https://www.instagram.com/nakaokawan/) 
 ## My skills
